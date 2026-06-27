@@ -107,9 +107,15 @@ Which method is more efficient and why?
 
 Watch a short video about AI in HR.
 
-Suggested Video:
+Watch the following video:
 
-Artificial Intelligence in Human Resource Management
+https://www.youtube.com/watch?v=1vkb7BCMQd0
+
+### Discussion Questions
+
+1. What AI applications did you observe?
+2. How can AI improve recruitment?
+3. What are the ethical concerns of AI in HR?
 
 ---
 

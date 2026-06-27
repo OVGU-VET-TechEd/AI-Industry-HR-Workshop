@@ -1,6 +1,16 @@
 # AI in Industry and Professional HR
 
 > 30-Minute Workshop for TVET
+> <!--
+author: Kainat Asif
+email: kainatasif9087@gmail.com
+version: 1.0
+language: en
+-->
+
+# AI in Industry and Professional HR
+
+> 30-Minute Workshop for TVET
 
 ---
 

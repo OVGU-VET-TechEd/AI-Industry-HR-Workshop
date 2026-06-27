@@ -1,6 +1,4 @@
-# AI in Industry and Professional HR
 
-> 30-Minute Workshop for TVET
 > <!--
 author: Kainat Asif
 email: kainatasif9087@gmail.com
@@ -15,6 +13,21 @@ language: en
 ---
 
 ## Learning Objectives
+
+---
+
+## Ice Breaker Activity
+
+### Question
+
+Where do you think AI is most useful in Human Resource Management?
+
+- Recruitment
+- Employee Training
+- Performance Evaluation
+- Workforce Planning
+
+Ask participants to vote for one option and briefly explain their choice.
 
 By the end of this workshop participants will be able to:
 
@@ -161,6 +174,28 @@ Questions:
 
 ## Assessment Quiz
 
+---
+
+## Interactive Quiz
+
+### Question 1
+
+[[AI can reduce recruitment time.]]
+
+(X) True
+
+( ) False
+
+---
+
+### Question 2
+
+[[AI can completely replace HR professionals.]]
+
+( ) True
+
+(X) False
+
 1. What is Artificial Intelligence?
 
 2. Name two applications of AI in HR.
@@ -184,8 +219,37 @@ Questions:
 
 ---
 
+## Reflection Activity
+
+### Think – Pair – Share
+
+Discuss the following questions with your partner:
+
+1. How can AI improve recruitment in your organization?
+
+2. What ethical issues should HR professionals consider when using AI?
+
+3. Suggest one AI tool that can improve employee training in TVET institutions.
+
+**Share your ideas with the class.**
+
 ## Conclusion
 
 AI is transforming Human Resource Management by improving recruitment, training and workforce management.
+---
+
+## References
+
+1. Russell, S., & Norvig, P. (2021). *Artificial Intelligence: A Modern Approach* (4th ed.).
+
+2. IBM. Artificial Intelligence for Human Resources.
+
+3. Microsoft AI Learning.
+
+4. OpenAI – ChatGPT.
+
+5. World Economic Forum. *The Future of Jobs Report 2025*.
+
+6. YouTube: Artificial Intelligence in Human Resource Management.
 
 Thank You

@@ -35,6 +35,7 @@ Where do you think AI is most useful in Human Resource Management?
 - Workforce Planning
 
 Ask participants to vote for one option and briefly explain their choice.
+---
 
 ## What is Artificial Intelligence?
 

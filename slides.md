@@ -14,7 +14,6 @@ language: en
 
 ## Learning Objectives
 
----
 By the end of this workshop participants will be able to:
 
 - Define Artificial Intelligence (AI)
@@ -22,7 +21,6 @@ By the end of this workshop participants will be able to:
 - Apply AI tools in recruitment and training
 - Evaluate benefits and challenges of AI in HR
 
----
 ---
 
 ## Ice Breaker Activity

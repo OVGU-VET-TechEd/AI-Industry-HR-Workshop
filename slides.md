@@ -49,6 +49,21 @@ Human Resource Management (HRM) is responsible for:
 ---
 
 ## AI Applications in HR
+### AI Recruitment
+
+![AI Recruitment](images/IMG_4818.webp)
+
+### HR Analytics Dashboard
+
+![HR Dashboard](images/IMG_4819.jpeg)
+
+### Employee Onboarding Chatbot
+
+![Employee Chatbot](images/IMG_4820.jpeg)
+
+### Workforce Planning
+
+![Workforce Planning](images/IMG_4821.jpeg)
 
 ### Recruitment
 

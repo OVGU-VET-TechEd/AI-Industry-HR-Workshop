@@ -15,6 +15,15 @@ language: en
 ## Learning Objectives
 
 ---
+By the end of this workshop participants will be able to:
+
+- Define Artificial Intelligence (AI)
+- Explain AI applications in HR
+- Apply AI tools in recruitment and training
+- Evaluate benefits and challenges of AI in HR
+
+---
+---
 
 ## Ice Breaker Activity
 
@@ -28,15 +37,6 @@ Where do you think AI is most useful in Human Resource Management?
 - Workforce Planning
 
 Ask participants to vote for one option and briefly explain their choice.
-
-By the end of this workshop participants will be able to:
-
-- Define Artificial Intelligence (AI)
-- Explain AI applications in HR
-- Apply AI tools in recruitment and training
-- Evaluate benefits and challenges of AI in HR
-
----
 
 ## What is Artificial Intelligence?
 

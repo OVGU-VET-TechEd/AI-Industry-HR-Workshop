@@ -16,6 +16,21 @@ The programme is designed around UNESCO's AI Competency Framework for Teachers (
 Participants will explore how AI supports the complete employee lifecycle—from workforce planning and recruitment to employee development, performance management, and HR analytics.
 
 The programme also encourages critical thinking about AI ethics, transparency, bias, privacy, and human oversight in HR decision-making.
+--
+
+## Learning Outcomes
+
+By the end of this self-learning programme, participants will be able to:
+
+1. Explain the role of Artificial Intelligence in transforming Human Resource Management across the employee lifecycle.
+
+2. Identify AI-powered technologies used in industrial HR functions, including recruitment, onboarding, learning and development, performance management, and workforce analytics.
+
+3. Analyse the opportunities and challenges of AI adoption in HR using the principles of responsible and ethical AI.
+
+4. Evaluate AI-enabled HR tools based on transparency, fairness, privacy, and human oversight.
+
+5. Apply UNESCO's responsible AI principles when considering AI solutions for industrial Human Resource Management.
 
 # AI-Assisted Human Resource Management in Industry
 

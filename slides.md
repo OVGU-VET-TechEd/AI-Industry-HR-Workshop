@@ -31,6 +31,24 @@ By the end of this self-learning programme, participants will be able to:
 4. Evaluate AI-enabled HR tools based on transparency, fairness, privacy, and human oversight.
 
 5. Apply UNESCO's responsible AI principles when considering AI solutions for industrial Human Resource Management.
+--
+
+## UNESCO Alignment
+
+| Element | Detail |
+|---|---|
+| Framework | UNESCO AI Competency Framework for Teachers (2024) |
+| Dimension | 3 — AI Foundations and Applications |
+| Competency | CG 3.2.2 |
+| Progression Level | Apply |
+
+**Curricular Goal (CG 3.2.2):**
+
+Support learners in applying AI tools responsibly to solve authentic professional problems while considering ethical, transparent, and context-appropriate use.
+
+**Workshop Learning Objective:**
+
+Enable participants to analyse, evaluate, and responsibly apply AI technologies across the Human Resource Management lifecycle in industrial organizations, while considering fairness, privacy, transparency, and human oversight.
 
 # AI-Assisted Human Resource Management in Industry
 

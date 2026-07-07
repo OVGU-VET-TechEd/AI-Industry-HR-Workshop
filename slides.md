@@ -67,8 +67,21 @@ Before continuing, think about the following questions:
 - Do you think AI should make hiring decisions without human involvement?
 
 - What skills do HR professionals need to use AI responsibly?
+--
 
-[[Take two minutes to reflect on your answers before moving to the next section. Write down one key insight in your learning notes.]]
+# Programme Goal
+
+By the end of this self-learning programme, participants will be able to:
+
+1. Explain how Artificial Intelligence is transforming Human Resource Management in industrial organizations.
+
+2. Identify AI applications across the complete employee lifecycle, including recruitment, onboarding, learning and development, performance management, and workforce analytics.
+
+3. Evaluate AI-powered HR tools using the principles of responsible AI, fairness, transparency, privacy, and human oversight.
+
+4. Apply UNESCO's AI competency principles to select appropriate AI solutions for HR practices.
+
+5. Reflect critically on the opportunities, limitations, and ethical implications of AI adoption in Human Resource Management.
 **Curricular Goal (CG 3.2.2):**
 
 Support learners in applying AI tools responsibly to solve authentic professional problems while considering ethical, transparent, and context-appropriate use.

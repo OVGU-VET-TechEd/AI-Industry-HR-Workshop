@@ -150,6 +150,46 @@ Today, AI is integrated across the entire employee lifecycle.
 
 - **Module 2:** AI Across the Employee Lifecycle (8 minutes)
 
+--
+
+# Module 2: AI Applications Across the Employee Lifecycle
+
+**Estimated Duration:** 8 Minutes
+
+### Learning Goals
+
+After completing this module, you will be able to:
+
+- Identify AI technologies used in different HR functions.
+
+- Explain how AI improves efficiency, accuracy, and decision-making in Human Resource Management.
+
+- Analyse how applicants and HR professionals both use AI during recruitment and employment processes.
+
+- Recognise the limitations of AI in HR decision-making.
+
+--
+
+## Session 2.1 — AI Throughout the Recruitment Journey
+
+Artificial Intelligence supports both employers and job applicants throughout the recruitment process.
+
+### How Applicants Use AI
+
+- Generate ATS-friendly CVs and resumes
+- Write personalised cover letters
+- Prepare for interviews using AI interview coaches
+- Improve LinkedIn profiles
+- Search and match suitable vacancies
+
+### How HR Professionals Use AI
+
+- Screen and rank applications
+- Match candidate skills with job requirements
+- Schedule interviews automatically
+- Detect recruitment trends using HR analytics
+- Reduce administrative workload through automation
+
 - **Module 3:** Responsible and Ethical AI in HR (8 minutes)
 
 - **Module 4:** Applying AI Tools in Industrial HR Practice (7 minutes)

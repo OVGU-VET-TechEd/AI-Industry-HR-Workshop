@@ -389,6 +389,40 @@ By successfully completing this micro-credential, you have demonstrated your abi
 
 ✓ Recommend responsible AI solutions for workplace implementation.
 
+--
+
+# Summary
+
+{{0}}
+Artificial Intelligence is transforming Human Resource Management across the entire employee lifecycle, from workforce planning to employee development and retention.
+
+{{1}}
+Responsible AI adoption requires HR professionals to balance innovation with ethics, fairness, transparency, privacy, and human oversight.
+
+{{2}}
+By applying UNESCO's AI Competency Framework, HR professionals can make informed and responsible decisions that improve organisational performance while protecting human values.
+
+{{3}}
+AI should enhance human capabilities—not replace human judgement.
+
+--
+
+# References
+
+1. UNESCO. (2024). *AI Competency Framework for Teachers.*
+
+2. UNESCO. (2021). *Recommendation on the Ethics of Artificial Intelligence.*
+
+3. World Economic Forum. (2025). *The Future of Jobs Report.*
+
+4. SHRM (Society for Human Resource Management). *Artificial Intelligence in Human Resource Management.*
+
+5. IBM. *Artificial Intelligence for Human Resources.*
+
+6. Microsoft Learn. *Responsible AI.*
+
+7. OpenAI. *ChatGPT for Professional Productivity.*
+
 ## Pedagogical Design Logic
 
 This self-learning programme follows a four-stage learning progression aligned with UNESCO's competency-based approach.
@@ -420,3 +454,21 @@ Designed around UNESCO AI Competency Framework for Teachers (2024)
 Dimension 3: AI Foundations and Applications
 
 Competency: CG 3.1.4 (Acquire Level)
+
+--
+
+# Thank You
+
+## AI-Assisted Human Resource Management in Industry
+
+### Self-Learning Professional Development Programme
+
+Designed using the UNESCO AI Competency Framework for Teachers (2024)
+
+**Prepared by:**
+
+**Kainat Asif**
+
+MS in International Technical and Vocational Education and Training (ITVET)
+
+Otto von Guericke University Magdeburg

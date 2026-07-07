@@ -261,10 +261,66 @@ According to the UNESCO Recommendation on the Ethics of Artificial Intelligence 
 
 > AI should support HR professionals in making informed decisions, but it should never replace human responsibility and ethical judgement.
 
-- **Module 4:** Applying AI Tools in Industrial HR Practice (7 minutes)
+--
+
+## Session 3.2 — Ethical Challenges of AI in Human Resource Management
+
+| Ethical Challenge | Example in HR | Responsible Practice |
+|---|---|---|
+| Algorithmic Bias | AI unfairly rejects qualified candidates | Regular bias audits and diverse training data |
+| Privacy | Collection of sensitive employee information | Secure data management and informed consent |
+| Lack of Transparency | Candidates do not understand why they were rejected | Explainable AI and clear communication |
+| Over-reliance on AI | HR accepts AI recommendations without review | Human oversight before final decisions |
+| Accountability | Unclear responsibility for AI errors | HR professionals remain responsible for final outcomes |
+
+- --
+
+# Module 4: Applying AI in Industrial Human Resource Management
+
+**Estimated Duration:** 7 Minutes
+
+### Learning Goals
+
+After completing this module, you will be able to:
+
+- Apply responsible AI principles to real HR scenarios.
+- Evaluate AI-powered HR tools before implementation.
+- Recommend appropriate AI solutions for different HR functions.
+- Justify HR decisions using ethical and evidence-based reasoning.
 
 Participants may complete the modules independently at their own pace.
 
+--
+
+## Session 4.1 — Industrial Case Study
+
+### Scenario
+
+A manufacturing company receives **2,000 job applications** for **25 technician positions**.
+
+The HR department plans to introduce an AI-powered Applicant Tracking System (ATS) to screen CVs automatically.
+
+### Consider the following questions
+
+- What advantages could AI provide in this situation?
+- What risks could arise if the AI system is biased?
+- Which UNESCO ethical principles should HR professionals consider before using the system?
+
+--
+
+## Session 4.2 — AI Evaluation Checklist
+
+Before implementing an AI tool in HR, ask the following questions:
+
+| Evaluation Question | Yes | No |
+|---|---|---|
+| Is the AI system transparent and explainable? | ☐ | ☐ |
+| Does it protect employee and applicant privacy? | ☐ | ☐ |
+| Has it been tested for fairness and bias? | ☐ | ☐ |
+| Does it support human decision-making rather than replace it? | ☐ | ☐ |
+| Is it suitable for the organisation's context and workforce? | ☐ | ☐ |
+
+> Responsible AI adoption requires continuous monitoring, evaluation, and human oversight.
 --
 
 ## Pedagogical Design Logic

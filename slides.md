@@ -177,10 +177,7 @@ Today, AI is integrated across the entire employee lifecycle.
 | Performance Management | Analyses performance trends and supports continuous feedback |
 | Employee Engagement | Uses sentiment analysis to measure employee satisfaction |
 | Retention & Career Development | Identifies employees at risk of leaving and recommends career opportunities |
-| HR Analytics | Supports evidence-based HR decisions using workforce data |
-
-- **Module 2:** AI Across the Employee Lifecycle (8 minutes)
-
+| HR Analytics | Supports evidence-based HR decisions using workforce
 --
 
 # Module 2: AI Applications Across the Employee Lifecycle
@@ -352,20 +349,6 @@ Before implementing an AI tool in HR, ask the following questions:
 | Is it suitable for the organisation's context and workforce? | ☐ | ☐ |
 
 > Responsible AI adoption requires continuous monitoring, evaluation, and human oversight.
-
- Pedagogical Design Logic
-
-This self-learning programme follows a four-stage learning progression aligned with UNESCO's competency-based approach.
-
-| Learning Stage | Purpose |
-|---|---|
-| 1. Understanding | Develop foundational knowledge of AI and Human Resource Management |
-| 2. Exploration | Examine how AI is applied across the employee lifecycle |
-| 3. Critical Evaluation | Analyse ethical, legal, and organisational implications of AI adoption |
-| 4. Practical Application | Apply responsible AI principles when selecting and using AI tools in HR |
-
-Rather than memorising concepts, learners progressively build the knowledge and judgement required to make responsible decisions about AI adoption in industrial Human Resource Management.
-
    
 **Curricular Goal (CG 3.2):**
 

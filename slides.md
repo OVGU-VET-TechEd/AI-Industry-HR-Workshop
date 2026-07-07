@@ -82,6 +82,27 @@ By the end of this self-learning programme, participants will be able to:
 4. Apply UNESCO's AI competency principles to select appropriate AI solutions for HR practices.
 
 5. Reflect critically on the opportunities, limitations, and ethical implications of AI adoption in Human Resource Management.
+
+--
+
+## Programme Format
+
+**Estimated Duration:** 30 Minutes
+
+This self-learning micro-credential is organized into four learning modules:
+
+- **Module 1:** Understanding Artificial Intelligence in Human Resource Management (7 minutes)
+
+- **Module 2:** AI Across the Employee Lifecycle (8 minutes)
+
+- **Module 3:** Responsible and Ethical AI in HR (8 minutes)
+
+- **Module 4:** Applying AI Tools in Industrial HR Practice (7 minutes)
+
+Participants may complete the modules independently at their own pace.
+
+At the end of the programme, learners complete a self-assessment activity to evaluate their understanding and readiness to apply AI responsibly in Human Resource Management.
+   
 **Curricular Goal (CG 3.2.2):**
 
 Support learners in applying AI tools responsibly to solve authentic professional problems while considering ethical, transparent, and context-appropriate use.

@@ -91,7 +91,21 @@ By the end of this self-learning programme, participants will be able to:
 
 This self-learning micro-credential is organized into four learning modules:
 
-- **Module 1:** Understanding Artificial Intelligence in Human Resource Management (7 minutes)
+- Module 1: The Digital Transformation of Human Resource Management
+
+**Estimated Duration:** 7 Minutes
+
+### Learning Goals
+
+After completing this module, you will be able to:
+
+- Explain why Human Resource Management is becoming increasingly data-driven.
+
+- Describe how digital transformation has changed HR practices in industrial organizations.
+
+- Explain why Artificial Intelligence is emerging as a strategic tool rather than simply an automation technology.
+
+- Recognise the relationship between AI, digitalisation, and workforce management.
 --
 
 ## Session 1.1 — Understanding Artificial Intelligence
@@ -321,7 +335,59 @@ Before implementing an AI tool in HR, ask the following questions:
 | Is it suitable for the organisation's context and workforce? | ☐ | ☐ |
 
 > Responsible AI adoption requires continuous monitoring, evaluation, and human oversight.
+
 --
+
+# Final Micro-Credential Assessment
+
+## AI Readiness Plan for an Industrial HR Department
+
+### Your Task
+
+You have been appointed as an HR Officer in a manufacturing company that plans to introduce Artificial Intelligence into its Human Resource Management system.
+
+Prepare a short AI Readiness Plan by completing the following sections.
+
+### Part 1 — Understanding
+
+Explain why organisations are introducing AI into Human Resource Management.
+
+### Part 2 — Application
+
+Identify three HR functions where AI could improve efficiency.
+
+### Part 3 — Analysis
+
+Analyse one ethical risk that may occur when AI is used in recruitment.
+
+### Part 4 — Evaluation
+
+Evaluate one AI-powered HR tool using the following criteria:
+
+- Fairness
+- Transparency
+- Privacy
+- Human Oversight
+
+### Part 5 — Creation
+
+Recommend one responsible AI solution for your organisation and justify your recommendation.
+
+--
+
+## Competency Achievement
+
+By successfully completing this micro-credential, you have demonstrated your ability to:
+
+✓ Explain AI applications in Human Resource Management.
+
+✓ Analyse AI opportunities and ethical challenges.
+
+✓ Evaluate AI tools using UNESCO's responsible AI principles.
+
+✓ Apply evidence-based decision-making in industrial HR contexts.
+
+✓ Recommend responsible AI solutions for workplace implementation.
 
 ## Pedagogical Design Logic
 
@@ -336,23 +402,6 @@ This self-learning programme follows a four-stage learning progression aligned w
 
 Rather than memorising concepts, learners progressively build the knowledge and judgement required to make responsible decisions about AI adoption in industrial Human Resource Management.
 
---
-
-# Module 1: The Digital Transformation of Human Resource Management
-
-**Estimated Duration:** 7 Minutes
-
-### Learning Goals
-
-After completing this module, you will be able to:
-
-- Explain why Human Resource Management is becoming increasingly data-driven.
-
-- Describe how digital transformation has changed HR practices in industrial organizations.
-
-- Explain why Artificial Intelligence is emerging as a strategic tool rather than simply an automation technology.
-
-- Recognise the relationship between AI, digitalisation, and workforce management.
    
 **Curricular Goal (CG 3.2.2):**
 

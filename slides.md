@@ -132,6 +132,22 @@ Artificial Intelligence is transforming HR by supporting decision-making rather 
 
 Today, AI is integrated across the entire employee lifecycle.
 
+--
+
+## The AI-Enabled Employee Lifecycle
+
+| HR Stage | How AI Supports HR |
+|---|---|
+| Workforce Planning | Predicts future workforce needs using data analytics |
+| Talent Attraction | Optimises job advertisements and identifies suitable talent pools |
+| Recruitment & Selection | Screens CVs, ranks applicants, and supports interview scheduling |
+| Onboarding | AI chatbots guide new employees through policies and training |
+| Learning & Development | Recommends personalised learning pathways and skill development |
+| Performance Management | Analyses performance trends and supports continuous feedback |
+| Employee Engagement | Uses sentiment analysis to measure employee satisfaction |
+| Retention & Career Development | Identifies employees at risk of leaving and recommends career opportunities |
+| HR Analytics | Supports evidence-based HR decisions using workforce data |
+
 - **Module 2:** AI Across the Employee Lifecycle (8 minutes)
 
 - **Module 3:** Responsible and Ethical AI in HR (8 minutes)

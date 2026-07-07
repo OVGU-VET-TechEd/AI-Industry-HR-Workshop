@@ -41,6 +41,21 @@ By the end of this self-learning programme, participants will be able to:
 | Dimension | 3 — AI Foundations and Applications |
 | Competency | CG 3.2.2 |
 | Progression Level | Apply |
+--
+
+## Why This Matters
+
+                                                              {{0}}
+Artificial Intelligence is rapidly transforming Human Resource Management by automating recruitment, workforce planning, employee development, and performance evaluation.
+
+                                                              {{1}}
+Organizations increasingly rely on AI-powered HR systems, yet many HR professionals lack the knowledge to critically evaluate these technologies before implementation.
+
+                                                              {{2}}
+Poorly implemented AI systems may introduce bias, reduce transparency, compromise data privacy, and negatively affect hiring decisions.
+
+                                                              {{3}}
+> Responsible AI adoption requires professionals who understand not only how AI works, but also when, why, and how it should be used ethically in Human Resource Management.
 
 **Curricular Goal (CG 3.2.2):**
 

@@ -115,6 +115,24 @@ This self-learning programme follows a four-stage learning progression aligned w
 | 4. Practical Application | Apply responsible AI principles when selecting and using AI tools in HR |
 
 Rather than memorising concepts, learners progressively build the knowledge and judgement required to make responsible decisions about AI adoption in industrial Human Resource Management.
+
+--
+
+# Module 1: The Digital Transformation of Human Resource Management
+
+**Estimated Duration:** 7 Minutes
+
+### Learning Goals
+
+After completing this module, you will be able to:
+
+- Explain why Human Resource Management is becoming increasingly data-driven.
+
+- Describe how digital transformation has changed HR practices in industrial organizations.
+
+- Explain why Artificial Intelligence is emerging as a strategic tool rather than simply an automation technology.
+
+- Recognise the relationship between AI, digitalisation, and workforce management.
    
 **Curricular Goal (CG 3.2.2):**
 

@@ -92,6 +92,33 @@ By the end of this self-learning programme, participants will be able to:
 This self-learning micro-credential is organized into four learning modules:
 
 - **Module 1:** Understanding Artificial Intelligence in Human Resource Management (7 minutes)
+--
+
+## Session 1.1 — Understanding Artificial Intelligence
+
+Artificial Intelligence (AI) refers to computer systems that are designed to perform tasks that normally require human intelligence. These tasks include learning from data, recognising patterns, solving problems, generating content, making predictions, and supporting human decision-making.
+
+According to UNESCO, AI should not be understood simply as automation. AI systems learn from data, interact with users, and support humans in making informed decisions across different professional contexts.
+
+Today, AI is widely used in education, healthcare, finance, manufacturing, and Human Resource Management to improve efficiency, accuracy, and decision quality.
+--
+
+### AI is More Than Automation
+
+Many people think AI simply replaces human work.
+
+However, modern AI performs several functions:
+
+- Learning from large amounts of data
+- Identifying hidden patterns
+- Predicting future outcomes
+- Supporting human decision-making
+- Generating new content using Generative AI
+- Continuously improving through feedback
+
+**Key Message**
+
+> Responsible AI should augment human intelligence, not replace human judgement.
 
 - **Module 2:** AI Across the Employee Lifecycle (8 minutes)
 

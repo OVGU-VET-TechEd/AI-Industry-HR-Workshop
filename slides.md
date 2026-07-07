@@ -190,6 +190,38 @@ Artificial Intelligence supports both employers and job applicants throughout th
 - Detect recruitment trends using HR analytics
 - Reduce administrative workload through automation
 
+--
+
+## Session 2.2 — AI Tools Used in Industrial Human Resource Management
+
+The following AI tools are commonly used across different HR functions. Each tool has a different purpose and should be selected according to organisational needs and responsible AI principles.
+
+| AI Tool | HR Application | Key Benefit |
+|---|---|---|
+| ChatGPT | Job descriptions, interview questions, policy drafting | Content generation and productivity |
+| LinkedIn Recruiter AI | Talent sourcing and candidate matching | Faster identification of suitable candidates |
+| Microsoft Copilot | HR documentation and communication | Improved efficiency and collaboration |
+| Workday AI | Workforce planning and HR analytics | Data-driven decision-making |
+| SAP SuccessFactors AI | Talent management and employee development | Personalised learning and performance support |
+
+--
+
+## Self-Learning Activity
+
+Select **one** AI tool from the previous slide.
+
+Complete the following learning task independently.
+
+### Reflect on these questions
+
+1. What is the main purpose of this AI tool?
+
+2. Which HR function does it support?
+
+3. What advantages could it provide to an organisation?
+
+4. What ethical or privacy risks should HR professionals consider before using it?
+
 - **Module 3:** Responsible and Ethical AI in HR (8 minutes)
 
 - **Module 4:** Applying AI Tools in Industrial HR Practice (7 minutes)

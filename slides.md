@@ -222,7 +222,44 @@ Complete the following learning task independently.
 
 4. What ethical or privacy risks should HR professionals consider before using it?
 
-- **Module 3:** Responsible and Ethical AI in HR (8 minutes)
+--
+
+# Module 3: Responsible and Ethical AI in Human Resource Management
+
+**Estimated Duration:** 8 Minutes
+
+### Learning Goals
+
+After completing this module, you will be able to:
+
+- Explain why responsible AI is essential in Human Resource Management.
+
+- Identify ethical risks associated with AI-powered HR systems.
+
+- Evaluate AI applications using UNESCO's ethical principles.
+
+- Recommend strategies for responsible AI adoption in industrial HR.
+
+--
+
+## Session 3.1 — Why Responsible AI Matters
+
+Artificial Intelligence can improve Human Resource Management by increasing efficiency and supporting better decisions.
+
+However, AI systems may also introduce ethical and organisational risks if they are not carefully designed, monitored, and evaluated.
+
+According to the UNESCO Recommendation on the Ethics of Artificial Intelligence (2021), AI should always respect:
+
+- Human rights
+- Human dignity
+- Fairness and non-discrimination
+- Transparency and explainability
+- Privacy and data protection
+- Human oversight and accountability
+
+**Key Message**
+
+> AI should support HR professionals in making informed decisions, but it should never replace human responsibility and ethical judgement.
 
 - **Module 4:** Applying AI Tools in Industrial HR Practice (7 minutes)
 

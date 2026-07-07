@@ -101,7 +101,20 @@ This self-learning micro-credential is organized into four learning modules:
 
 Participants may complete the modules independently at their own pace.
 
-At the end of the programme, learners complete a self-assessment activity to evaluate their understanding and readiness to apply AI responsibly in Human Resource Management.
+--
+
+## Pedagogical Design Logic
+
+This self-learning programme follows a four-stage learning progression aligned with UNESCO's competency-based approach.
+
+| Learning Stage | Purpose |
+|---|---|
+| 1. Understanding | Develop foundational knowledge of AI and Human Resource Management |
+| 2. Exploration | Examine how AI is applied across the employee lifecycle |
+| 3. Critical Evaluation | Analyse ethical, legal, and organisational implications of AI adoption |
+| 4. Practical Application | Apply responsible AI principles when selecting and using AI tools in HR |
+
+Rather than memorising concepts, learners progressively build the knowledge and judgement required to make responsible decisions about AI adoption in industrial Human Resource Management.
    
 **Curricular Goal (CG 3.2.2):**
 

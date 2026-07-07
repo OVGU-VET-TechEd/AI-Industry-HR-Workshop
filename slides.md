@@ -120,6 +120,18 @@ However, modern AI performs several functions:
 
 > Responsible AI should augment human intelligence, not replace human judgement.
 
+--
+
+## Session 1.2 — Human Resource Management in the AI Era
+
+Human Resource Management (HRM) is the strategic function responsible for attracting, developing, supporting, and retaining talent throughout the employee lifecycle.
+
+Modern HR is no longer limited to hiring employees. It integrates people, technology, and data to improve organisational performance and employee experience.
+
+Artificial Intelligence is transforming HR by supporting decision-making rather than replacing HR professionals.
+
+Today, AI is integrated across the entire employee lifecycle.
+
 - **Module 2:** AI Across the Employee Lifecycle (8 minutes)
 
 - **Module 3:** Responsible and Ethical AI in HR (8 minutes)

@@ -454,7 +454,7 @@ This self-learning programme follows a four-stage learning progression aligned w
 Rather than memorising concepts, learners progressively build the knowledge and judgement required to make responsible decisions about AI adoption in industrial Human Resource Management.
 
    
-**Curricular Goal (CG 3.2.2):**
+**Curricular Goal (CG 3.2):**
 
 Support learners in applying AI tools responsibly to solve authentic professional problems while considering ethical, transparent, and context-appropriate use.
 
@@ -470,7 +470,7 @@ Designed around UNESCO AI Competency Framework for Teachers (2024)
 
 Dimension 3: AI Foundations and Applications
 
-Competency: CG 3.1.4 (Acquire Level)
+Competency: CG 3.2 (Acquire Level)
 
 --
 

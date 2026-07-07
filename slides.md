@@ -353,9 +353,30 @@ Before implementing an AI tool in HR, ask the following questions:
 
 > Responsible AI adoption requires continuous monitoring, evaluation, and human oversight.
 
+ Pedagogical Design Logic
+
+This self-learning programme follows a four-stage learning progression aligned with UNESCO's competency-based approach.
+
+| Learning Stage | Purpose |
+|---|---|
+| 1. Understanding | Develop foundational knowledge of AI and Human Resource Management |
+| 2. Exploration | Examine how AI is applied across the employee lifecycle |
+| 3. Critical Evaluation | Analyse ethical, legal, and organisational implications of AI adoption |
+| 4. Practical Application | Apply responsible AI principles when selecting and using AI tools in HR |
+
+Rather than memorising concepts, learners progressively build the knowledge and judgement required to make responsible decisions about AI adoption in industrial Human Resource Management.
+
+   
+**Curricular Goal (CG 3.2):**
+
+Support learners in applying AI tools responsibly to solve authentic professional problems while considering ethical, transparent, and context-appropriate use.
+
+**Workshop Learning Objective:**
+
+Enable participants to analyse, evaluate, and responsibly apply AI technologies across the Human Resource Management lifecycle in industrial organizations, while considering fairness, privacy, transparency, and human oversight.
 --
 
-# Final Micro-Credential Assessment
+# Micro-Credential Performance Task
 
 ## AI Readiness Plan for an Industrial HR Department
 
@@ -440,47 +461,10 @@ AI should enhance human capabilities—not replace human judgement.
 
 7. OpenAI. *ChatGPT for Professional Productivity.*
 
-## Pedagogical Design Logic
-
-This self-learning programme follows a four-stage learning progression aligned with UNESCO's competency-based approach.
-
-| Learning Stage | Purpose |
-|---|---|
-| 1. Understanding | Develop foundational knowledge of AI and Human Resource Management |
-| 2. Exploration | Examine how AI is applied across the employee lifecycle |
-| 3. Critical Evaluation | Analyse ethical, legal, and organisational implications of AI adoption |
-| 4. Practical Application | Apply responsible AI principles when selecting and using AI tools in HR |
-
-Rather than memorising concepts, learners progressively build the knowledge and judgement required to make responsible decisions about AI adoption in industrial Human Resource Management.
-
-   
-**Curricular Goal (CG 3.2):**
-
-Support learners in applying AI tools responsibly to solve authentic professional problems while considering ethical, transparent, and context-appropriate use.
-
-**Workshop Learning Objective:**
-
-Enable participants to analyse, evaluate, and responsibly apply AI technologies across the Human Resource Management lifecycle in industrial organizations, while considering fairness, privacy, transparency, and human oversight.
-
-# AI-Assisted Human Resource Management in Industry
-
-## A Self-Learning Professional Development Programme
-
-Designed around UNESCO AI Competency Framework for Teachers (2024)
-
-Dimension 3: AI Foundations and Applications
-
-Competency: CG 3.2 (Acquire Level)
 
 --
 
 # Thank You
-
-## AI-Assisted Human Resource Management in Industry
-
-### Self-Learning Professional Development Programme
-
-Designed using the UNESCO AI Competency Framework for Teachers (2024)
 
 **Prepared by:**
 

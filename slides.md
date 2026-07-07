@@ -6,6 +6,15 @@ language: en
 narrator: UK English Female
 comment: AI-Assisted Human Resource Management in Industry
 -->--
+# AI-Assisted Human Resource Management in Industry
+
+## A Self-Learning Professional Development Programme
+
+Designed around UNESCO AI Competency Framework for Teachers (2024)
+
+Dimension 3: AI Foundations and Applications
+
+Competency: CGS-3.2
 
 ## About this Programme
 
@@ -38,9 +47,17 @@ By the end of this self-learning programme, participants will be able to:
 | Element | Detail |
 |---|---|
 | Framework | UNESCO AI Competency Framework for Teachers (2024) |
-| Dimension | 3 — AI Foundations and Applications |
-| Competency | CG 3.2.2 |
-| Progression Level | Apply |
+| Dimension | 3 – AI Foundations and Applications |
+| Competency | **CGS-3.2** |
+| Progression | Support institutional professional learning using AI |
+
+**Selected Competency (CGS-3.2):**
+
+Enhance skills to use AI to support institutional professional learning and facilitate data-informed monitoring, diagnosis, and recommendations for organisational learning.
+
+**Workshop Objective:**
+
+Enable HR professionals to understand, evaluate, and responsibly apply AI technologies in Human Resource Management to improve organisational learning and workforce development.
 --
 
 ## Why This Matters

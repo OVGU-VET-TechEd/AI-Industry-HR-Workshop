@@ -107,6 +107,12 @@ By the end of this self-learning programme, participants will be able to:
 **Estimated Duration:** 30 Minutes
 
 This self-learning micro-credential is organized into four learning modules:
+This self-learning micro-credential consists of four modules:
+
+- Module 1: Digital Transformation of Human Resource Management (7 min)
+- Module 2: AI Applications Across the Employee Lifecycle (8 min)
+- Module 3: Responsible and Ethical AI in HR (8 min)
+- Module 4: Applying AI in Industrial HR (7 min)
 
 - Module 1: The Digital Transformation of Human Resource Management
 
@@ -441,8 +447,6 @@ AI should enhance human capabilities—not replace human judgement.
 5. IBM. *Artificial Intelligence for Human Resources.*
 
 6. Microsoft Learn. *Responsible AI.*
-
-7. OpenAI. *ChatGPT for Professional Productivity.*
 
 
 --

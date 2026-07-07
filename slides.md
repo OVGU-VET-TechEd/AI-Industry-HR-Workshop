@@ -56,7 +56,19 @@ Poorly implemented AI systems may introduce bias, reduce transparency, compromis
 
                                                               {{3}}
 > Responsible AI adoption requires professionals who understand not only how AI works, but also when, why, and how it should be used ethically in Human Resource Management.
+--
 
+## Self-Reflection
+
+Before continuing, think about the following questions:
+
+- Have you ever applied for a job using an AI-powered platform such as LinkedIn, Indeed, or an Applicant Tracking System (ATS)?
+
+- Do you think AI should make hiring decisions without human involvement?
+
+- What skills do HR professionals need to use AI responsibly?
+
+[[Take two minutes to reflect on your answers before moving to the next section. Write down one key insight in your learning notes.]]
 **Curricular Goal (CG 3.2.2):**
 
 Support learners in applying AI tools responsibly to solve authentic professional problems while considering ethical, transparent, and context-appropriate use.

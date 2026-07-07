@@ -5,7 +5,7 @@ version: 1.0
 language: en
 narrator: UK English Female
 comment: AI-Assisted Human Resource Management in Industry
--->--
+--
 # AI-Assisted Human Resource Management in Industry
 
 ## A Self-Learning Professional Development Programme
@@ -107,14 +107,13 @@ By the end of this self-learning programme, participants will be able to:
 **Estimated Duration:** 30 Minutes
 
 This self-learning micro-credential is organized into four learning modules:
-This self-learning micro-credential consists of four modules:
 
 - Module 1: Digital Transformation of Human Resource Management (7 min)
 - Module 2: AI Applications Across the Employee Lifecycle (8 min)
 - Module 3: Responsible and Ethical AI in HR (8 min)
 - Module 4: Applying AI in Industrial HR (7 min)
 
-- Module 1: The Digital Transformation of Human Resource Management
+  ## Module 1: The Digital Transformation of Human Resource Management
 
 **Estimated Duration:** 7 Minutes
 
@@ -274,7 +273,6 @@ After completing this module, you will be able to:
 
 - Recommend strategies for responsible AI adoption in industrial HR.
 
---
 
 ## Session 3.1 — Why Responsible AI Matters
 
@@ -356,7 +354,7 @@ Before implementing an AI tool in HR, ask the following questions:
 
 > Responsible AI adoption requires continuous monitoring, evaluation, and human oversight.
    
-**Curricular Goal (CG 3.2):**
+**Curricular Goal (CGS 3.2):**
 
 Support learners in applying AI tools responsibly to solve authentic professional problems while considering ethical, transparent, and context-appropriate use.
 
